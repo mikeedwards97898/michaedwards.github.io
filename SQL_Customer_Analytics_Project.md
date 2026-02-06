@@ -437,6 +437,3 @@ ORDER BY total_revenue DESC;
 - **Business Intelligence**
 - **Data Visualization** (queries optimized for Tableau/Power BI integration)
 
----
-
-*This project demonstrates proficiency in SQL analytics for subscription-based business models, with direct applications to roles requiring customer analytics, growth analysis, and data-driven decision making.*
