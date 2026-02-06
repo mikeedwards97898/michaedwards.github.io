@@ -76,7 +76,7 @@ Professional Excel template featuring:
 - Executive reporting
 - Business analysis
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Analytics & Visualization:**
 - Tableau
