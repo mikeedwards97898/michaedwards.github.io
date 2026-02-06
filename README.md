@@ -57,16 +57,6 @@ Comprehensive SQL analysis demonstrating proficiency in subscription business me
 
 ##  Excel Templates
 
-### Business Analyst KPI Dashboard
-**File:** `Business_Analyst_KPI_Dashboard_Template.xlsx`
-
-Professional Excel template featuring:
-- Real-time KPI tracking
-- Customer analytics (LTV, CAC, churn)
-- Revenue breakdown by category
-- Automated calculations and formulas
-
-**[Download the Excel file to view](Business_Analyst_KPI_Dashboard_Template.xlsx)** 
 
 **Use Cases:**
 - Customer acquisition tracking
