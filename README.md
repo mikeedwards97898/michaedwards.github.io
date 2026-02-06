@@ -64,10 +64,9 @@ Professional Excel template featuring:
 - Real-time KPI tracking
 - Customer analytics (LTV, CAC, churn)
 - Revenue breakdown by category
-- Monthly performance trends
 - Automated calculations and formulas
-- Data entry interface
-- Summary statistics
+
+**[Download the Excel file to view](Business_Analyst_KPI_Dashboard_Template.xlsx)** 
 
 **Use Cases:**
 - Customer acquisition tracking
