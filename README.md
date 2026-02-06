@@ -2,10 +2,10 @@
 
 Welcome to my professional portfolio showcasing data analytics projects, SQL expertise, and business intelligence solutions.
 
-## 🚀 Portfolio Website
+##  Portfolio Website
 **Live Site:** [https://mikeedwards97898.github.io/michaedwards.github.io/](https://mikeedwards97898.github.io/michaedwards.github.io/)
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 1. Customer Analytics SQL Project
 **File:** `SQL_Customer_Analytics_Project.md`
@@ -55,7 +55,7 @@ Comprehensive SQL analysis demonstrating proficiency in subscription business me
 
 **Technologies:** Tableau, SQL, AWS Cloud, Data Modeling
 
-## 📈 Excel Templates
+##  Excel Templates
 
 ### Business Analyst KPI Dashboard
 **File:** `Business_Analyst_KPI_Dashboard_Template.xlsx`
@@ -102,14 +102,14 @@ Professional Excel template featuring:
 - Regulatory Compliance
 - Risk Assessment
 
-## 📫 Contact
+##  Contact
 
 **Email:** maedwards880@gmail.com  
 **Phone:** 346-306-9703  
 **Location:** Houston, Texas  
 **Portfolio:** [https://mikeedwards97898.github.io/michaedwards.github.io/](https://mikeedwards97898.github.io/michaedwards.github.io/)
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Business Analyst II** | Modivcare | Nov 2024 - Present
 - SQL-based operational data analysis for NEMT sector
@@ -126,15 +126,13 @@ Professional Excel template featuring:
 - Cost analysis automation (75% time reduction)
 - 40% reduction in manual processes
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Arts in Business Administration**  
 Sam Houston State University | Graduated May 2014
 
-## 📝 License
+##  License
 
 All projects and templates are created by Michael Edwards. Feel free to use the templates for personal or professional use.
 
----
 
-*Last Updated: February 2026*
